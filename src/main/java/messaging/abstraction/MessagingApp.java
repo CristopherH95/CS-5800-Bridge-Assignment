@@ -1,2 +1,3 @@
-package messaging.abstraction;public class MessagingApp {
-}
+package messaging.abstraction;
+
+public abstract class MessagingApp implements MessagingService {}

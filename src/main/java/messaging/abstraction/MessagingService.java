@@ -1,2 +1,5 @@
-package messaging.abstraction;public interface MessagingService {
+package messaging.abstraction;
+
+public interface MessagingService {
+    void transportMessage();
 }
